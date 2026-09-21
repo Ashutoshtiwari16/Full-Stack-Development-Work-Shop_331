@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Ashutoshtiwari16/Full-Stack-Development-Work-Shop_331/issues"
   },
-  "homepage": "https://github.com/Ashutoshtiwari16/Full-Stack-Development-Work-Shop_331#readme"
+  "homepage": "https://github.com/Ashutoshtiwari16/Full-Stack-Development-Work-Shop_331#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
 }

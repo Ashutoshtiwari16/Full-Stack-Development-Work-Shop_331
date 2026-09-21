@@ -1,8 +1,3 @@
-//operation of making http service using node js and making rest api for get and post , delete and put operation ,
-// create read update delete end points
-// read data from json file and write data to json file using node js fs module
-// create a server using http module and listen on port 3005
-// update the data in json file using put method and delete the data using delete method
 import http from "http";
 import fs from "fs";
 
