@@ -1,0 +1,4 @@
+Define 3 functions named f1,f2,f3 ,so each function will print there own name 1 Define main funtion
+ and first print 
+main then call f1,f2,f3 and at last print end call 
+main function and show the output
